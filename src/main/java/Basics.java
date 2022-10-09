@@ -44,8 +44,8 @@ public class Basics {
          */
 //        System.out.println(split("Idol Long Oolong Vertical Europe University Toyota"));
         System.out.println(7 + 5);
-        int[] l0 = {1,2,3,4};
-        System.out.println(oddSum(l0));
+//        int[] l0 = {1,2,3,4};
+//        System.out.println(oddSum(l0));
         /* TODO (Task 1): Write a line of code below that prints the string
          *                Hello World!
          */
